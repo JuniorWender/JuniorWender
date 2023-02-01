@@ -10,7 +10,7 @@
 * Repository : Bitbucket , GitHub and Azure
 * Versioning Systems : Git
 * Back-End Development: C# , Asp.Net MVC , .NET and python
-* Front-end development: Html, Css, Javascript, Angular and Jquery
+* Front-end development: Html, Css, Javascript, React, Angular and Jquery
 * Mobile development: Kotlin
 * Designer: Figma
 
