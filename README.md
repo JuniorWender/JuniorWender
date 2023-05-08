@@ -6,13 +6,13 @@
 
 # My Skills:
 
-* Db : MySQL , Oracle and SQL Server
-* Repository : Bitbucket , GitHub and Azure
-* Versioning Systems : Git
-* Back-End Development: C# , Asp.Net MVC , .NET and python
-* Front-end development: Html, Css, Javascript, React, Angular and Jquery
-* Mobile development: Kotlin
-* Designer: Figma
+* Db : MySQL, Oracle, MongoDb and SQL Server.
+* Repository : Bitbucket, GitHub and Azure.
+* Versioning Systems : Git.
+* Back-End Development: C#, .NET and NestJs.
+* Front-end development: Html, Css, Javascript, React and Angular.
+* Mobile development: Kotlin.
+* Designer: Figma.
 
 
 You can check My Portifolio on this website: 
