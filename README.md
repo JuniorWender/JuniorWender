@@ -1,8 +1,8 @@
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&https://www.linkedin.com/in/jorgewenderjunior)
-
 - 👋 Hi, I’m @JuniorWender
 - 👀 I’m interested in learn about new Technologies
 - 📫 You can find me on my linkedin: https://www.linkedin.com/in/jorgewenderjunior/?locale=en_US
+
+<a href="https://www.linkedin.com/in/jojosuelobo/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
 
 # My Skills:
 
