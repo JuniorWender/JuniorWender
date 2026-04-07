@@ -6,10 +6,11 @@
 
 # My Skills:
 
-* Db : MySQL, Oracle, MongoDb and SQL Server.
-* Repository : Bitbucket, GitHub and Azure.
+* Db : MySQL, Oracle, MongoDb and SQL Server, minio.
+* Queue: RabbitMQ.
+* Repository : Bitbucket, GitHub, Azure, Gitlab.
 * Versioning Systems : Git.
-* Back-End Development: C#, .NET and NestJs.
+* Back-End Development: .NET, NestJs, Python, Java, PHP.
 * Front-end development: Html, Css, Javascript, React and Angular.
 * Mobile development: Kotlin.
 * Designer: Figma.
